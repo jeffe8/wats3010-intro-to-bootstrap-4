@@ -4,21 +4,13 @@ body {
 
 
 
-.main-nav li {
-  display: inline-block;
-  font-size: 30px;
-  font-family: serif;
-  font-variant: small-caps;
-  padding: 5px;
-  float: center;
-}
 
 a:link {
     color: whitesmoke;
 }
 
 
-p.nav {
+nav.navbar {
  color: whitesmoke; 
  font-variant: small-caps;
  font-size 60px;
