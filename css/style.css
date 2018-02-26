@@ -1,16 +1,16 @@
-.card-item {
- background-size: contain; 
-  background-repeat: no-repeat;
+body {
+    background-color: #E1C9A0;
 }
 
 
-/*.main-nav li {
+
+.main-nav li {
   display: inline-block;
   font-size: 30px;
   font-family: serif;
   font-variant: small-caps;
   padding: 5px;
-  float: right;
+  float: center;
 }
 li {
  float: right; 
@@ -19,7 +19,7 @@ li {
 a:link {
     color: whitesmoke;
 }
-*/
+
 
 p.subtitle {
  color: whitesmoke; 
@@ -28,29 +28,3 @@ p.subtitle {
  float: center;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    float: right;
-
-}
-
-li {
-    float: left;
-  
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
