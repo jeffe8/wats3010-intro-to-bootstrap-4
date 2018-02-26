@@ -12,9 +12,6 @@ body {
   padding: 5px;
   float: center;
 }
-li {
- float: right; 
-}
 
 a:link {
     color: whitesmoke;
