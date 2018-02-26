@@ -2,9 +2,6 @@ body {
     background-color: #E1C9A0;
 }
 
-
-
-
 a:link {
     color: whitesmoke;
 }
@@ -17,3 +14,20 @@ nav.navbar {
  float: center;
 }
 
+a:visited {
+    color: #00FF00
+}
+
+div:hover {
+    background-color: whitesmoke;
+}
+
+.footer-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }
+
+.footer-item-flex {
+  flex: 0 1 auto;
+}
