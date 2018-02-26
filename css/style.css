@@ -6,6 +6,10 @@ a:link {
     color: whitesmoke;
 }
 
+a:active { 
+    background-color: whitesmoke;
+}
+
 
 nav.navbar {
  color: whitesmoke; 
